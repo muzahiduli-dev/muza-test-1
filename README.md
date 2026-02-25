@@ -2,3 +2,5 @@
 Hello testing
 
 test
+
+test using git proxy
